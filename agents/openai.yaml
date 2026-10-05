@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 场景制作"
+  short_description: "参考重建、材质光照、场景运镜与高清交付，分别验证画面和空间"
+  default_prompt: "使用 $blender-scene-production，按已确认参考精修场景或设计运镜，验证实际画面、通道和交付文件。"

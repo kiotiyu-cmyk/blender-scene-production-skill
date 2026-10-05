@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+video-check-*/
+local-validation.json
+*.blend
+*.blend1
+*.mp4
+*.mov
+*.rgba
+.env
+.env.*
+video-check-*.json
